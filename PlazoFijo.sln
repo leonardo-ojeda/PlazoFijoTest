@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlazoFijo", "PlazoFijo\PlazoFijo.csproj", "{E4E9C975-EBD4-41F1-947F-71FC38BCC084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E9C975-EBD4-41F1-947F-71FC38BCC084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E9C975-EBD4-41F1-947F-71FC38BCC084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E9C975-EBD4-41F1-947F-71FC38BCC084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E9C975-EBD4-41F1-947F-71FC38BCC084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3AA5DF-1CD4-4D4F-8DDC-67C58C0A4C0B}
+	EndGlobalSection
+EndGlobal
